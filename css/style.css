@@ -84,7 +84,7 @@ a, a:after, a:visited {
 	margin:6%;
 }
 .logo {
-	background-image: url("../img/Appicon.svg");
+	background-image: url("../img/logo.png");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 6vh;
@@ -128,7 +128,7 @@ h2 {
 	margin-top: 10%;
 }
 .appstore {
-	background-image: url("../img/Appstore.svg");
+	background-image: url("../img/logo.png");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 100%;

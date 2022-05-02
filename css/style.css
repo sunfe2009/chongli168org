@@ -224,9 +224,10 @@ img {
 		margin: 0 auto;
 	}
 	.logo {
-		width: 8vh;
+		width: 60%;
 		height: 8vh; 
 		margin: 0 auto;
+		text-align: center;
 	}
 	.content {
 		margin-top: 10%;
